@@ -22,6 +22,6 @@ All the pages(SSG) are developed using Next JS application.
 
 
 
-
+Finally, 
 npm run build to get the production build
 
